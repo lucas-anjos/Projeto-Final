@@ -30,4 +30,3 @@ values ("36659272000145","128705570112","A. J. O. DE SOUSA GESSO","Empresário (
 
 select * from dados;
 
-drop database dbdetran2;
